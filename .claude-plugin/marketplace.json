@@ -1,0 +1,19 @@
+{
+  "name": "tonymod",
+  "description": "Claude Code mod 모음 — 오른쪽 '세션' 탭과 입력창 위 사용량 띠",
+  "owner": { "name": "tony" },
+  "plugins": [
+    {
+      "name": "crew-mode",
+      "source": "./plugins/crew-mode",
+      "description": "오른쪽 탭 '세션' — 에이전트(귀여운 캐릭터 + 시간 막대) · 작업(이 대화의 커밋 · 푸시 · PR, git 저장소 · 워크트리) · 서버(CPU · 메모리)를 한 탭에"
+    },
+    {
+      "name": "usage-bar",
+      "source": "./plugins/usage-bar",
+      "description": "입력창 위 세 줄 표 — 5시간 · 이번 주 · 이 대화(컨텍스트)의 남은 양 막대와 토큰 · 비용"
+    }
+  ],
+  "renames": { "work-status": null },
+  "forceRemoveDeletedPlugins": true
+}

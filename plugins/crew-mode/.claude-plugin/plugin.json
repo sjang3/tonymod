@@ -1,0 +1,7 @@
+{
+  "name": "crew-mode",
+  "version": "0.5.0",
+  "description": "오른쪽 창 탭 \"세션\" 하나에 에이전트(귀여운 캐릭터 + 흐름) · 작업(이 대화의 결과물 + git 저장소 · 워크트리) · 서버(CPU · 메모리) — 사용량은 usage-bar",
+  "author": { "name": "tony" },
+  "types": "./types/index.d.ts"
+}

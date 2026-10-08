@@ -1,0 +1,7 @@
+{
+  "name": "usage-bar",
+  "version": "0.2.0",
+  "description": "입력창 바로 위 세 줄 — 5시간 · 이번 주 남은 사용량(막대)과 이 대화의 토큰 · 컨텍스트 · 비용",
+  "author": { "name": "tony" },
+  "types": "./types/index.d.ts"
+}

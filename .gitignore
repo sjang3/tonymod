@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# /plugin-types 가 만드는 타입 파일(크고, 엔진 버전마다 다시 만든다)
+plugins/*/.claude-plugin/types/

@@ -1,0 +1,4 @@
+{
+  "description": "crew-mode hooks module",
+  "modules": ["./register.js"]
+}
